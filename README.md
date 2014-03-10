@@ -1,4 +1,4 @@
 Vman
 =====
 
-A bash script for managing multiple Vim configurations.
+A Bash script for managing multiple Vim configurations.
